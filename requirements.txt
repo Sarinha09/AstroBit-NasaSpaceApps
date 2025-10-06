@@ -5,4 +5,6 @@ scikit-learn
 matplotlib
 joblib
 seaborn
+gunicorn
 plotly
+flask_cors
