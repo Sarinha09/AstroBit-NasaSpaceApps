@@ -61,19 +61,15 @@ source .venv/bin/activate
 
 c. Install the dependencies:
 All necessary libraries are listed in the requirements.txt file. Install them with a single command:
-
 pip install -r requirements.txt
 
 3. Running the Application
 With the dependencies installed, start the Flask server:
-
 flask run
-
 Open your browser and navigate to http://127.0.0.1:5000 to see the application running.
 
 4. Retraining the Model (Optional)
 If you want to modify the model or retrain it with new data, simply run the model.py script. This will regenerate the .joblib files and the model_metrics.json file.
-
 python model.py
 
 ## 📝 Other Notes
