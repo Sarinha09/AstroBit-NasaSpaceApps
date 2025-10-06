@@ -8,7 +8,7 @@ https://astrobit-nasaspaceapps.onrender.com
 
 Important Note: The demo server is a free service and may take a moment to start up if it's inactive. Uploading very large files is not recommended. To test the upload functionality, please use the test_data.csv file available in the repository.
 
-📋 Project Structure
+## 📋 Project Structure
 Here is a brief description of the main files and folders in the project:
 
 
