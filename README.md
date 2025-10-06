@@ -50,13 +50,13 @@ cd <PROJECT_FOLDER_NAME>
 
 b. Create and activate a virtual environment:
 
-# Create the environment
+#Create the environment
 python -m venv .venv
 
-# Activate on Windows
+#Activate on Windows
 .\.venv\Scripts\activate
 
-# Activate on macOS/Linux
+#Activate on macOS/Linux
 source .venv/bin/activate
 
 c. Install the dependencies:
